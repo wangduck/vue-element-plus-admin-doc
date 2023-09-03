@@ -1,0 +1,1 @@
+import{o as a,c as n,a as s}from"./app.597b4460.js";const t='{"title":"Footer 页脚","description":"","frontmatter":{},"headers":[{"level":2,"title":"用法","slug":"用法"}],"relativePath":"components/footer.md","lastUpdated":1693705937090}',p={},e=s('',5);p.render=function(s,t,p,o,c,l){return a(),n("div",null,[e])};export default p;export{t as __pageData};
